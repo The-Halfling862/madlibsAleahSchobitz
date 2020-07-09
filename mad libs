@@ -1,0 +1,51 @@
+#include <iostream>
+
+int main() {
+  
+  string person in the room 1;
+  string adajative 1;
+  string pronoun 1;
+  int number;
+  string meserment of time;
+  string person in the room 2;
+  string verb 1;
+  string adajative 2;
+  string verb 2;
+  string adajative 3;
+  string adajative 4;
+  string plural noun;
+  string noun 1;
+  string room in a house;
+  string pasttense verb;
+  string person in the room 3;
+  string noun 2;
+  string person in the room 4;
+  string feeling;
+  string pronoun 2;
+  string previos noun;
+  
+  std::cout << "fill in the blanks!\n";
+  std::cin >> person in the room 1;
+  std::cin >>  adajative 1;
+  std::cin >> pronoun 1;
+  std::cin >> number;
+  std::cin >> meserment of time;
+  std::cin >> person in the room 2;
+  std::cin >> verb 1;
+  std::cin >> adajative 2;
+  std::cin >> verb 2;
+  std::cin >> adajative 3;
+  std::cin >> adajative 4;
+  std::cin >> plural noun;
+  std::cin >> noun 1;
+  std::cin >> room in a house;
+  std::cin >> pasttense verb;
+  std::cin >> person in the room 3;
+  std::cin >> noun 2;
+  std::cin >> person in the room 4;
+  std::cin >> feeling;
+  std::cin >> pronoun 2;
+  std::cin >> previos noun;
+  
+  std::cout << person in the room 1 << " made tacos. They were " << adajative 1 << " tacos. " << pronoun 1 << " left them on the table. " << number << Meserment of time << " later the tacos had been yoted all over the floor. " << person in the room 2 << " blamed Arush for " << verb 1 << " the " << adjative 2 << " tacos. Arav and Aran decided to " << verb 2 << " " << adajative 3 << " " << adajative 4 << " " << plural noun << ". Micha took the " << noun 1 << " from the " << room in a house << ". Trisha and Nikith " << pasttense verb << " away with " << person in the room 3 << "'s " << noun 2 << ". In the end " << person in the room << " was " << feeling << " because " << pronoun 2 << " had no " << Previos noun << " and no tacos.";
+}
